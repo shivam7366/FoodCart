@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FoodCart/static/css/main.a4638583.css",
-    "main.js": "/FoodCart/static/js/main.01d43dd2.js",
+    "main.js": "/FoodCart/static/js/main.6753dbcf.js",
     "static/js/787.c0c1068b.chunk.js": "/FoodCart/static/js/787.c0c1068b.chunk.js",
     "static/media/meals.jpg": "/FoodCart/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/FoodCart/index.html",
     "main.a4638583.css.map": "/FoodCart/static/css/main.a4638583.css.map",
-    "main.01d43dd2.js.map": "/FoodCart/static/js/main.01d43dd2.js.map",
+    "main.6753dbcf.js.map": "/FoodCart/static/js/main.6753dbcf.js.map",
     "787.c0c1068b.chunk.js.map": "/FoodCart/static/js/787.c0c1068b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4638583.css",
-    "static/js/main.01d43dd2.js"
+    "static/js/main.6753dbcf.js"
   ]
 }
